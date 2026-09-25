@@ -361,7 +361,21 @@ The predicted admission chance is an estimate produced by a trained model and sh
 | 📓 **Development** | Jupyter Notebook |
 
 ---
+## 👨‍💻 Author
+
+**Saif Mohammed**
+
+GitHub:
+
+https://github.com/saif-mohammed9505
+
+---
+
+## License
+
+This project is intended for educational and experimental purposes.
 
 ## ⭐ Project Goal
 
 The main goal of this project is to demonstrate how **machine learning regression** can be used to analyze academic and profile-related factors and estimate a student's graduate admission chance.
+
